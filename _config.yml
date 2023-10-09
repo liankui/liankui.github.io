@@ -7,5 +7,3 @@ url: https://liankui.github.io
 aux_links:
   Template Repository: https://github.com/liankui
 
-plugins:
-  - jekyll-default-layout
