@@ -7,3 +7,23 @@ url: https://liankui.github.io
 aux_links:
   Github主页: https://github.com/liankui
 
+collections:
+  staff_members:
+    people: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
